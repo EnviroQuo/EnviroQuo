@@ -126,7 +126,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
 </a>
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+- **Aaron Masuba** - _Initial work_ - [Aaron-MSB](https://github.com/Aaron-MSB)
+- **Dhruvaraj Nikam** - _Initial work_ - [Aaron-MSB](https://github.com/Aaron-MSB)
+- **Pradeep** - _Initial work_ - [Pradeep](https://github.com/pradeepmisal)
+- **Sandes Khilari** - _Initial work_ - [Aaron-MSB](https://github.com/Aaron-MSB)
+- **Furqan Yakub Khan** - _Initial work_ - [Aaron-MSB](https://github.com/Aaron-MSB)
 
 ### License
 
