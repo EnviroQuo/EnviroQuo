@@ -122,10 +122,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ### Authors
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
-
 - **Aaron Masuba** - _Initial work_ - [Aaron-MSB](https://github.com/Aaron-MSB)
 - **Dhruvaraj Nikam** - _Initial work_ - [Aaron-MSB](https://github.com/Aaron-MSB)
 - **Pradeep** - _Initial work_ - [Pradeep](https://github.com/pradeepmisal)
